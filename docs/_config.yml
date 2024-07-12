@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Gok Claims Nederland
+title: Gokgeld Terug
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Informatie website over de terugvordering van verloren geld bij illegale gokbedrijven.
+  Een community gedreven platform met informatie over de terugvordering van verloren geld bij illegale gokbedrijven.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
@@ -32,6 +32,9 @@ include: ["_data"]
 theme: minima
 plugins:
   - jekyll-feed
+
+sass:
+  sass_dir: _sass
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -15,7 +15,7 @@ permalink: /tijdlijn/
     content: '';
     position: absolute;
     width: 2px;
-    background-color: #007bff;
+    background-color: #418756;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -34,7 +34,7 @@ permalink: /tijdlijn/
     width: 20px;
     height: 20px;
     background-color: white;
-    border: 3px solid #007bff;
+    border: 3px solid #418756;
     top: 22px;
     border-radius: 50%;
     z-index: 1;
@@ -56,7 +56,7 @@ permalink: /tijdlijn/
     background-color: white;
     position: relative;
     border-radius: 6px;
-    border: 1px solid #007bff;
+    border: 1px solid #418756;
   }
   .left .content::before {
     content: " ";
@@ -66,9 +66,9 @@ permalink: /tijdlijn/
     width: 0;
     z-index: 1;
     right: -10px;
-    border: medium solid #007bff;
+    border: medium solid #418756;
     border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent #007bff;
+    border-color: transparent transparent transparent #418756;
   }
   .right .content::before {
     content: " ";
@@ -78,9 +78,9 @@ permalink: /tijdlijn/
     width: 0;
     z-index: 1;
     left: -10px;
-    border: medium solid #007bff;
+    border: medium solid #418756;
     border-width: 10px 10px 10px 0;
-    border-color: transparent #007bff transparent transparent;
+    border-color: transparent #418756 transparent transparent;
   }
   .content h2 {
     font-size: 16px;
@@ -117,10 +117,15 @@ permalink: /tijdlijn/
     .right .content::before {
       left: -10px;
       border-width: 10px 10px 10px 0;
-      border-color: transparent #007bff transparent transparent;
+      border-color: transparent #418756 transparent transparent;
     }
   }
 </style>
+
+
+De juridische strijd tussen Nederlandse gokkers en online casino's is het resultaat van jarenlang illegaal opereren van deze bedrijven in Nederland. Voor 1 oktober 2021 was online gokken in Nederland verboden, maar veel buitenlandse casino's, vaak gevestigd in Malta vanwege de gunstige belastingwetten en soepele regelgeving, boden hun diensten toch aan Nederlandse spelers aan. Met de legalisering van online gokken in Nederland kwam de mogelijkheid voor gedupeerde spelers om hun verloren geld terug te vorderen. Dit leidde tot een golf van rechtszaken, waarbij de rechtmatigheid van de kansspelovereenkomsten en de zorgplicht van de casino's centraal staan. De Maltese gokwet Bill 55, die gokbedrijven beschermt tegen buitenlandse vonnissen, voegt een extra laag complexiteit toe aan de situatie.
+
+
 <div class="timeline">
   {% assign events = site.data.timeline %}
   {% for event in events %}

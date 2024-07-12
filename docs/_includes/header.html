@@ -3,7 +3,7 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><i class="fa-solid fa-dice"></i> {{ site.title | escape }}</a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -20,7 +20,17 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <a class="page-link" href="{{ my_page.url | relative_url }}">
+              {%- if my_page.title == 'Nieuws' -%}
+              <i class="fa-solid fa-newspaper"></i>
+              {%- endif -%}
+              {%- if my_page.title == 'Tijdlijn' -%}
+              <i class="fa-sharp fa-solid fa-timeline"></i>
+              {%- endif -%}
+              {%- if my_page.title == 'Aanbieders' -%}
+              <i class="fa-solid fa-gavel"></i>
+              {%- endif -%}
+              {{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
         </div>
