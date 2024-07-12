@@ -31,34 +31,37 @@ body {
 }
 
 
-.crop-container {
-    width: 100%;
-    height: 250px; /* Fixed height instead of max-height */
-    overflow: hidden;
-    margin: 0 auto 15px;
-    border-radius: 5px;
-    position: relative;
+// .crop-container {
+//     width: 100%;
+//     height: 250px; /* Fixed height instead of max-height */
+//     overflow: hidden;
+//     margin: 0 auto 15px;
+//     border-radius: 5px;
+//     position: relative;
+// }
+
+// .crop-container img {
+//     width: 100%;
+//     height: auto; /* Allow the image to take its natural height */
+//     object-fit: cover;
+//     object-position: center; /* Center the image */
+//     position: absolute;
+//     top: 50%;
+//     left: 50%;
+//     transform: translate(-50%, -50%); /* Center the image */
+//     border-radius: 5px;
+// }
+
+// @media (max-height: 250px) {
+//     .crop-container {
+//         height: 100vh; /* Use viewport height for smaller screens */
+//     }
+// }
+
+
+.over_wrapper {
+    padding: 0 20px;
 }
-
-.crop-container img {
-    width: 100%;
-    height: auto; /* Allow the image to take its natural height */
-    object-fit: cover;
-    object-position: center; /* Center the image */
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); /* Center the image */
-    border-radius: 5px;
-}
-
-@media (max-height: 250px) {
-    .crop-container {
-        height: 100vh; /* Use viewport height for smaller screens */
-    }
-}
-
-
 
 .main-wrapper {
     background-color: #ffffff;
@@ -76,3 +79,66 @@ body {
     margin-right: 5px;
     color: #b49e75;
 }
+
+
+.main-wrapper {
+    background-color: #ffffff;
+    padding: 0;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.hero-container {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.hero-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.gradient-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 70%;
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
+}
+
+.hero-content {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    right: 30px;
+    color: #000;
+    z-index: 2;
+}
+
+.hero-content h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+/* Style for content outside hero-container */
+.main-wrapper > .home > *:not(.hero-container) {
+    padding: 0 30px;
+}
+
+.main-wrapper > .home > *:first-child:not(.hero-container) {
+    padding-top: 30px;
+}
+
+.main-wrapper > .home > *:last-child {
+    padding-bottom: 30px;
+}
+
+.main-wrapper > .post {
+    padding: 30px;
+}
+
