@@ -3,6 +3,7 @@ layout: post
 title: "Overzicht van Rechtzaken Online Zokken Zonder Vergunning"
 date: 2024-07-11 12:00:00 -0400
 categories: uitleg
+coverimage: /assets/images/rechtzaak.jpg
 ---
 
 Dit is een overzicht van verschillende Nederlandse rechtszaken die draaien om de vraag of online gokbedrijven geld moeten terugbetalen aan spelers die geld verloren hebben tijdens het spelen op hun platforms, in de periode dat deze bedrijven nog geen Nederlandse vergunning hadden. 

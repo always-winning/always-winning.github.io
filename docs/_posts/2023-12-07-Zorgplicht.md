@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "De Zorgplicht van Casino's en Goksites"
+title: "De Zorgplicht van Online Casino's en Goksites"
 date: 2024-07-11 10:00:00 -0400
 categories: uitleg
+coverimage: /assets/images/casino.jpg
 ---
 
 De legalisering van online gokken in Nederland op 1 oktober 2021 bracht een nieuwe era van regulering en toezicht met zich mee. Centraal in deze nieuwe wetgeving staat de **zorgplicht**, een concept dat verregaande consequenties heeft voor zowel online casino's als hun spelers. 
