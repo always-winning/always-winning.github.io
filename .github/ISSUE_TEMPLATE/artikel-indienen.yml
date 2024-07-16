@@ -1,0 +1,60 @@
+name: Artikel Suggestie Indienen
+description: Gebruik dit sjabloon om een nieuw artikel voor te stellen met betrekking tot de rechtzaken rondom online goksites.
+title: "[Artikel Suggestie] Beschrijf het artikel"
+labels: [artikel, inzending]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Artikel Suggestie Indienen
+
+        Bedankt voor je bijdrage! Vul alsjeblieft de volgende gegevens in om een nieuw artikel voor te stellen met betrekking tot de website.
+
+  - type: input
+    id: titel
+    attributes:
+      label: Wat is de titel van het artikel?
+      description: "Geef een duidelijke titel voor het artikel."
+      placeholder: "Titel van het artikel"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type_artikel
+    attributes:
+      label: Wat voor soort artikel is het?
+      description: "Selecteer het type artikel."
+      options:
+        - uitleg
+        - news
+    validations:
+      required: true
+
+  - type: input
+    id: datum
+    attributes:
+      label: Wat is de datum van het artikel?
+      description: "Geef de datum van het artikel. Dit kan ook de huidige datum zijn."
+      placeholder: "Datum van het artikel (YYYY-MM-DD HH:MM:SS -0400)"
+    validations:
+      required: true
+
+  - type: input
+    id: afbeelding
+    attributes:
+      label: Wat is de URL van de afbeelding voor het artikel?
+      description: "Geef de URL van de afbeelding die bij het artikel hoort."
+      placeholder: "URL van de afbeelding"
+    validations:
+      required: false
+
+  - type: textarea
+    id: artikel_tekst
+    attributes:
+      label: Wat is de tekst van het artikel? (in Markdown format)
+      description: "Beschrijf de volledige tekst van het artikel in Markdown format."
+      placeholder: "Tekst van het artikel"
+    validations:
+      required: true
