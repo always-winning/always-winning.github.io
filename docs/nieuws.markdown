@@ -11,6 +11,8 @@ permalink: /nieuws/
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {%- if post.coverimage -%}
         <img src="{{ post.coverimage }}" />
+    {%- else -%}
+        <img src="/assets/images/article.svg" alt="Default cover image" />
     {%- endif -%}
     <span class="post-meta">{{ post.date | date: date_format }}</span>
     <h3>
