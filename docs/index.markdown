@@ -13,10 +13,11 @@ layout: home
 <div class="hero-container">
 <img src="/assets/images/illustration.jpg" alt="Online Gokken"/>
 <div class="gradient-overlay"></div>
+</div>
+
 <div class="hero-content">
     <h1>Welkom op Gokgeld Terug</h1>
     <p><strong>Dé informatiebron voor Nederlandse gokkers die geld verloren hebben bij online casino's die voor de legalisering moogelijk illegaal opereerden in Nederland.</strong></p>
-</div>
 </div>
 
 Voor 1 oktober 2021 was het aanbieden van online kansspelen in Nederland illegaal. Toch waren veel internationale online casino's actief op de Nederlandse markt. Duizenden Nederlanders verloren geld bij deze aanbieders, vaak zonder te weten dat deze casino's zonder Nederlandse licentie opereerden.  Met de legalisering van online gokken in Nederland op 1 oktober 2021 kwam er een nieuwe realiteit. Niet alleen kregen gokbedrijven de mogelijkheid om een vergunning aan te vragen en legaal te opereren, maar ontstond er ook een kans voor gedupeerde spelers om hun verloren geld terug te vorderen.
