@@ -168,3 +168,16 @@ body {
         height: auto;
     }
 }
+
+
+
+@media screen and (max-width: 600px) {
+    .site-nav {
+        background-color: #f9f4ec;
+        border: none;
+    }
+    .site-nav .page-link {
+        padding: 10px 15px;
+        margin:0px;
+    }
+}
