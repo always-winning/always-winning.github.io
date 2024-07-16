@@ -2,7 +2,7 @@ name: Wijziging Indienen
 description: Gebruik dit sjabloon om een wijziging in te dienen met betrekking tot de website.
 title: "[Wijziging] Beschrijf de wijziging"
 labels: [wijziging, inzending]
-assignees: ''
+assignees: []
 
 body:
   - type: markdown
