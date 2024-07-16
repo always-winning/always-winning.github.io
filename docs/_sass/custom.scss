@@ -131,5 +131,11 @@ body {
 }
 
 .post-list img {
-    max-width:100px;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+    object-fit: cover;
+    float: left;
+    height: auto;
 }
