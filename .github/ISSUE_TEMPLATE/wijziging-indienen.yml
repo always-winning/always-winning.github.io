@@ -1,0 +1,53 @@
+name: Wijziging Indienen
+description: Gebruik dit sjabloon om een wijziging in te dienen met betrekking tot de website.
+title: "[Wijziging] Beschrijf de wijziging"
+labels: [wijziging, inzending]
+assignees: ''
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Wijziging Indienen
+
+        Bedankt voor je bijdrage! Vul alsjeblieft de volgende gegevens in om een wijziging in te dienen met betrekking tot de website.
+
+  - type: dropdown
+    id: wat_wijzigen
+    attributes:
+      label: Wat wil je wijzigen?
+      description: "Selecteer wat je wilt wijzigen."
+      options:
+        - Home
+        - Aanbieders
+        - Tijdlijn
+        - Posts
+    validations:
+      required: true
+
+  - type: textarea
+    id: wijziging
+    attributes:
+      label: Wat is de wijziging?
+      description: "Beschrijf de wijziging die je wilt doorvoeren."
+      placeholder: "Beschrijf de wijziging"
+    validations:
+      required: true
+
+  - type: textarea
+    id: waarom_wijzigen
+    attributes:
+      label: Waarom wil je het wijzigen?
+      description: "Leg uit waarom je deze wijziging wilt doorvoeren."
+      placeholder: "Leg uit waarom"
+    validations:
+      required: true
+
+  - type: textarea
+    id: onderbouwing_wijzigen
+    attributes:
+      label: Wat is de onderbouwing van de wijziging? (vermeld bron artikelen)
+      description: "Geef de onderbouwing van de wijziging en vermeld bron artikelen indien van toepassing."
+      placeholder: "Geef de onderbouwing"
+    validations:
+      required: true
