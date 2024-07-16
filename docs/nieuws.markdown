@@ -9,6 +9,9 @@ permalink: /nieuws/
     {%- for post in site.posts -%}
     <li>
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- if post.coverimage -%}
+        <img src="{{ post.coverimage }}" />
+    {%- endif -%}
     <span class="post-meta">{{ post.date | date: date_format }}</span>
     <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
