@@ -17,7 +17,7 @@ layout: home
 
 <div class="hero-content">
     <h1>Welkom op Gokgeld Terug</h1>
-    <p><strong>Dé informatiebron voor Nederlandse gokkers die geld verloren hebben bij online casino's die voor de legalisering moogelijk illegaal opereerden in Nederland.</strong></p>
+    <p><strong>Dé informatiebron voor Nederlandse gokkers die geld verloren hebben bij online casino's die voor de legalisering mogelijk illegaal opereerden in Nederland.</strong></p>
 </div>
 
 Voor 1 oktober 2021 was het aanbieden van online kansspelen in Nederland illegaal. Toch waren veel internationale online casino's actief op de Nederlandse markt. Duizenden Nederlanders verloren geld bij deze aanbieders, vaak zonder te weten dat deze casino's zonder Nederlandse licentie opereerden.  Met de legalisering van online gokken in Nederland op 1 oktober 2021 kwam er een nieuwe realiteit. Niet alleen kregen gokbedrijven de mogelijkheid om een vergunning aan te vragen en legaal te opereren, maar ontstond er ook een kans voor gedupeerde spelers om hun verloren geld terug te vorderen.
@@ -30,3 +30,12 @@ Er zijn meerdere [rechtszaken](/uitleg/2024/07/11/Rechtzaken.html) aangespannen 
 ## Wat betekent dit voor jou?
 
 Als jij voor 1 oktober 2021 geld hebt verloren bij een online casino dat geen vergunning had in Nederland, dan is het mogelijk dat je dit geld kunt terugvorderen. Er zijn meerdere [aanbieders](/aanbieders) die je hiermee kunnen helpen.
+
+## Wat is het doel van deze website?
+
+Deze website is bedoeld om een plek te zijn voor de community om informatie met elkaar te delen op een gestructureerde manier. Momenteel staat deze informatie namelijk verspreid over forum posts. En aangezien dit nog een lang proces gaat zijn lijkt het me nuttig dit te organiseren. Iedereen is welkom om bij te dragen, dat kan door issues of pull requests te openen op Github.
+
+## Andere informatie voorzieningen
+
+- [Onetime forum](https://forum.onetime.nl/topic/13959-casino-claim): is erg actief en geregeld door de community
+
