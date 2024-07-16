@@ -3,11 +3,12 @@ layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% assign date_format = site.minima.date_format | default: "%Y-%m-%dT%H:%M:%S%:z" %}
   {% for page in site.pages %}
     {% if page.sitemap != false %}
       <url>
         <loc>{{ site.url }}{{ page.url | replace:'index.html','' }}</loc>
-        <lastmod>{{ page.last_modified_at | xmlschema }}</lastmod>
+        <lastmod>{{ page.last_modified_at | date: date_format }}</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
       </url>
@@ -17,7 +18,7 @@ layout: none
     {% if post.sitemap != false %}
       <url>
         <loc>{{ site.url }}{{ post.url }}</loc>
-        <lastmod>{{ post.date | xmlschema }}</lastmod>
+        <lastmod>{{ post.date | date: date_format }}</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
       </url>
