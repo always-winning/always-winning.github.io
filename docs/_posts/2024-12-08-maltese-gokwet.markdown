@@ -2,7 +2,7 @@
 layout: post
 title:  "Maltese gokwet Bill 55 bemoeilijkt terugvorderen geld van illegale goksites"
 date:   2024-07-08 14:24:59 +0200
-categories: jekyll update
+categories: uitleg
 ---
 
 ## Wat is Bill 55 en waarom is het problematisch?

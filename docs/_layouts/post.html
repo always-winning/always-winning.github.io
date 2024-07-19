@@ -20,6 +20,9 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
+      {%- for category in page.categories -%}
+        <span class="category_tag {{ category | downcase | replace: ' ', '-' }}">{{ category | capitalize }}</span>
+      {%- endfor -%}
   </header>
 
 

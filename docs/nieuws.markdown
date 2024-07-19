@@ -15,11 +15,15 @@ permalink: /nieuws/
         <img src="/assets/images/article.svg" alt="Default cover image" />
     {%- endif -%}
     <span class="post-meta">{{ post.date | date: date_format }}</span>
+
     <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
         </a>
     </h3>
+    {%- for category in post.categories -%}
+        <span class="category_tag {{ category | downcase | replace: ' ', '-' }}">{{ category | capitalize }}</span>
+    {%- endfor -%}
     {%- if site.show_excerpts -%}
         {{ post.excerpt }}
     {%- endif -%}
