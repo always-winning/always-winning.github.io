@@ -3,6 +3,7 @@ layout: post
 title: "Zijn online casinos nu legaal in Nederland?"
 date: 2024-07-18 12:00:00 -0400
 categories: uitleg
+coverimage: /assets/images/onlinebetting.png
 ---
 
 Tot voor kort was online gokken in Nederland niet specifiek gereguleerd. De invoering van de [Wet Kansspelen op Afstand (WKoA)](https://wetten.overheid.nl/BWBR0044767) op 1 april 2021 veranderde dit landschap. Voorheen werd het traditionele gokactiviteiten zoals loterijen en casino's geregeld door de [Wet op de kansspelen](https://wetten.overheid.nl/BWBR0002469) (WoK) uit 1968, maar deze wet behandelde geen online gokken. De WKoA vereist nu dat aanbieders van online gokken een vergunning moeten verkrijgen van de Kansspelautoriteit (KSA) om legaal te kunnen opereren. Alle online gokactiviteiten vóór 1 oktober 2021 waren illegaal vanwege het ontbreken van vergunningen. Momenteel mogen alleen die aanbieders die over een geldige KSA-vergunning beschikken hun diensten legaal aanbieden binnen Nederland.
