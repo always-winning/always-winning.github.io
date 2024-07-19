@@ -3,6 +3,7 @@ layout: post
 title: "Verjaringstermijn van claims tegen illegale online casino's"
 date: 2024-07-18 12:00:00 -0400
 categories: uitleg
+coverimage: /assets/images/verjaringstermijn.png
 ---
 
 In principe geldt voor vorderingen uit onverschuldigde betaling een verjaringstermijn van **vijf jaar**. Dit betekent dat een speler die in 2018 geld verloor bij een illegaal casino, in principe tot 2023 de tijd had om een claim in te dienen. 
