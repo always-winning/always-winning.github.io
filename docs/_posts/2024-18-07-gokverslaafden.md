@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Toename van Gokverslaafden Sinds de Legalisering van Online Gokken"
+title: "Toename van gokverslaafden sinds de legalisering van online gokken"
 date: 2024-07-18 12:00:00 -0400
 categories: nieuws
 ---
