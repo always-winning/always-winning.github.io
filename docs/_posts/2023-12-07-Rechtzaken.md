@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Overzicht van Rechtzaken Online Zokken Zonder Vergunning"
+title: "Overzicht van Rechtzaken Online Gokken Zonder Vergunning"
 date: 2024-07-11 12:00:00 -0400
 categories: uitleg
 coverimage: /assets/images/rechtzaak.jpg
