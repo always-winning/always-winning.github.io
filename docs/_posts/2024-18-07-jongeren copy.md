@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Gokbedrijven Laten Miljoenen aan Boetes Onbetaald"
+date: 2024-07-18 12:00:00 -0400
+categories: uitleg
+coverimage: /assets/images/kansspelautoriteit.png
+---
+
+De Kansspelautoriteit (KSA), waakhond van de Nederlandse kansspelmarkt, worstelt met een groeiend probleem: illegale gokbedrijven die weigeren hun boetes te betalen. Uit onderzoek van CasinoNieuws.nl blijkt dat acht bedrijven sinds 2013 in totaal €2,78 miljoen aan boetes hebben laten liggen. 
+
+Deze onbetaalde boetes zijn slechts het topje van de ijsberg. De KSA heeft sinds haar oprichting in 2012 voor bijna €40 miljoen aan boetes [opgelegd](https://www.casinonieuws.nl/licenties/kansspelautoriteit/boetes-opgelegd-door-de-kansspelautoriteit/), waarvan een groot deel in 2023. De meeste boetes zijn opgelegd aan aanbieders die opereerden zonder de vereiste vergunning, die pas sinds oktober 2021 wordt verstrekt. 
+
+## Curaçao als Trefpunt voor Illegale Gokbedrijven
+
+Opvallend is dat zes van de acht bedrijven die hun boetes naast zich neerleggen, opereren vanuit Curaçao. Dit Caribische eiland fungeert als een aantrekkelijke uitvalsbasis voor illegale goksites vanwege de soepele regelgeving. De KSA heeft eind 2023 de Curaçaose minister van Financiën om hulp gevraagd bij het innen van de openstaande boetes ([bron: Time2Play](https://time2play.com/nl/nieuws/gokbedrijven-weigeren-betalen-boetes-ksa/)). 
+
+## Woo-verzoek Werpt Licht op Probleem
+
+Een recent [Woo (Wet Open Overheid)-verzoek](https://kansspelautoriteit.nl/publish/library/18/17511_01-315-162_woo-besluit-openbaar.pdf), ingediend op 30 april 2024, heeft de problematiek rondom onbetaalde boetes aan het licht gebracht. Hoewel de KSA het verzoek om een volledig overzicht van betaalde en onbetaalde boetes afwees, bevestigde de toezichthouder wel de namen van de acht bedrijven die weigeren te betalen ([bron: OnlineCasinoGround.nl](https://www.onlinecasinoground.nl/gokbedrijven-weigeren-boetes-te-betalen-aan-de-ksa/)). 
+
+## Gedupeerde Gokkers Kunnen Verliezen Terugvorderen
+
+Naast de KSA spannen ook gedupeerde gokkers rechtszaken aan tegen illegale aanbieders. Verschillende [juridische firma's](/aanbieders/), waaronder Claimly en Goldenstein Legal, bieden gedupeerde spelers de mogelijkheid om hun verliezen terug te vorderen. 
+
+## Strijd Tegen Illegale Gokbedrijven Gaat Door
+
+De KSA blijft zich inzetten om illegale gokbedrijven aan te pakken. Naast het opleggen van boetes zet de toezichthouder ook andere middelen in, zoals lasten onder dwangsom en aanwijzingen. De strijd tegen illegale aanbieders is echter complex en vereist een internationale aanpak. 
