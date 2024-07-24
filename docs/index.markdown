@@ -16,7 +16,7 @@ layout: home
 </div>
 
 <div class="hero-content">
-    <h1>Welkom op Gokgeld Terug</h1>
+    <h1>Welkom op Casino Claim Community</h1>
     <p><strong>Dé community gedreven informatiebron voor Nederlandse gokkers die geld verloren hebben bij online casino's die voor de legalisering mogelijk illegaal opereerden in Nederland.</strong></p>
 </div>
 
