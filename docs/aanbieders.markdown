@@ -9,7 +9,8 @@ Verschillende aanbieders die claimen te helpen met het terugvorderen van geld va
 ### Massaschadeclaims:
 Deze hebben vaak een lagere commissie (~30%) doordat het in grote getalen gaat. Sommige partijen vragen wel een vergoeding voor deelname aan de massaschadeclaim (wat redelijk gebruikelijk is). Het proces kan wel langer duren dan een individuele claim.
 
-* **[Claimly](https://www.claimly.nl/online-gokken-geld-terug):** Een online platform dat consumenten helpt bij het indienen van claims, waaronder claims tegen online casino's. Ze werken samen met juridische experts en procesfinanciers om het proces te vereenvoudigen en het financiële risico voor de consument te minimaliseren. Ze hanteren een "No Cure, No Pay" principe. Ze vragen de speelgeschiedenis namens u op. Commissie: 30%
+* **[Claimly](https://www.claimly.nl/online-gokken-geld-terug):** Een online platform dat consumenten helpt bij het indienen van claims, waaronder claims tegen online casino's. Ze werken samen met juridische experts en procesfinanciers om het proces te vereenvoudigen en het financiële risico voor de consument te minimaliseren. Ze vragen de speelgeschiedenis namens u op. Commissie: 30%
+  
 * **[Loonstein Advocaten](https://loonsteinadvocaten.nl/rechtsgebieden/geldverlies-bij-online-casinos/):** Zelfde als hieronder. Ze zijn ook een massaschadeclaim aan het starten. Je moet zelf je speelgeschiedenis opvragen. Commissie: onbekend
 
 ### Advocatenkantoren voor individuele claims:
