@@ -3,6 +3,7 @@ layout: post
 title: "Uitgebreide uitleg situatie online gokverliezen terugvorderen"
 date: 2024-07-24 12:00:00 -0400
 categories: uitleg
+coverimage: /assets/images/research.jpg
 ---
 
 Vanaf 1 oktober 2021 is het in Nederland toegestaan om online kansspelen aan te bieden, onder strikte voorwaarden. Voor die datum was het aanbieden van dergelijke diensten echter illegaal. Dit opent de deur voor consumenten om hun verliezen, gemaakt bij online casino’s gedurende de afgelopen 20 jaar, terug te vorderen.
