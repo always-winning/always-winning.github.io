@@ -8,7 +8,9 @@ layout: none
     {% if page.sitemap != false %}
       <url>
         <loc>{{ site.url }}{{ page.url | replace:'index.html','' }}</loc>
-        <lastmod>{{ page.last_modified_at | date: date_format }}</lastmod>
+        {% if page.last_modified_at %}
+          <lastmod>{{ page.last_modified_at | date: date_format }}</lastmod>
+         {% endif %}
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
       </url>
@@ -18,7 +20,9 @@ layout: none
     {% if post.sitemap != false %}
       <url>
         <loc>{{ site.url }}{{ post.url }}</loc>
-        <lastmod>{{ post.date | date: date_format }}</lastmod>
+        {% if post.date %}
+          <lastmod>{{ post.date | date: date_format }}</lastmod>
+        {% endif %}
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
       </url>
