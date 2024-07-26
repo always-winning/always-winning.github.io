@@ -29,7 +29,7 @@ Er zijn meerdere [rechtszaken](/uitleg/2024/07/11/Rechtzaken.html) aangespannen 
 
 ## Wat betekent dit voor jou?
 
-Als jij voor 1 oktober 2021 geld hebt verloren bij een online casino dat geen vergunning had in Nederland, dan is het mogelijk dat je dit geld kunt terugvorderen. Er zijn meerdere [aanbieders](/aanbieders) die je hiermee kunnen helpen.
+Als jij voor 1 oktober 2021 geld hebt verloren bij een online casino dat geen vergunning had in Nederland, dan is het mogelijk dat je dit geld kunt terugvorderen. Er zijn meerdere [aanbieders](/aanbieders) die je hiermee kunnen helpen. Meer weten? Bekijk de [uitgebreide uitleg post.](/uitleg/2024/07/24/uitgebreide-uitleg.html)
 
 ## Wat is het doel van deze website?
 
