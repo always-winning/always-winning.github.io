@@ -23,7 +23,7 @@ title: Casino Claim Community
 description: >- # this means to ignore newlines until "baseurl:"
   Een community gedreven platform met informatie over het terugvorderen van gokverliezen bij online casino's.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gokgeld-terug.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://casinoclaimcommunity.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
 # github_username:  ""
 include: ["_data"]
