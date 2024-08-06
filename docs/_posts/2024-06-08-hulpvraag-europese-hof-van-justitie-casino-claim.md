@@ -3,6 +3,7 @@ layout: post
 title:  "Europese Hof van Justitie Buigt Zich Over Terugvorderen van Online Gokverliezen"
 date:   2024-08-06 14:24:59 +0200
 categories: nieuws
+coverimage: /assets/images/eu-flag.jpg
 ---
 
 ## Europese Hof van Justitie Buigt Zich Over Terugvorderen van Online Gokverliezen
