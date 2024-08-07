@@ -48,5 +48,5 @@ Aangezien de maatschappelijke acceptatie niet was aangetoond, moest de rechter b
 
 Als gevolg hiervan werden Green Feather Online Limited en Trannel Limited veroordeeld tot het terugbetalen van respectievelijk € 91.940 en € 222.453 aan de eisers.
 
-### Zelf een Claim Indienen
+### Zelf een Claim Claim indienen
 Bekijk de [pagina met aanbieders](/aanbieders) voor een overzicht van waar je je claim kan indienen. Deze pagina is samengesteld door de community. Zie je iets verkeerds? Laat het ons dan weten via [deze link.](https://github.com/gokgeld-terug/gokgeld-terug.github.io/issues/new?assignees=&labels=wijziging%2Cinzending&projects=&template=wijziging-indienen.yml&title=%5BWijziging%5D+Beschrijf+de+wijziging)
