@@ -39,4 +39,5 @@ Deze website is bedoeld om een plek te zijn voor de community om informatie met 
 
 - [Onetime forum](https://forum.onetime.nl/topic/13959-casino-claim): is erg actief en geregeld door de community
 - [Casino zorgplicht](https://casinozorgplicht.nl/): prima informatie maar wordt wel gesponsord door één van de aanbieders (Goldenstein). Niet geheel objectief dus. Update 2024-08-07: de sponsoring van Goldenstein lijkt te zijn verdwenen.
+- [Casinonieuws.nl](https://casinonieuws.nl) Heeft veel up-to-date informatie over de rechtzaken tegen online gokbedrijven zoals Unibet. Als je het probeert te doorzoeken zie je alleen door de bomen het bos niet meer, veel andere ongerelateerde nieuwsberichten. Ze zijn ook erg aggressief met gokreclames.
 
