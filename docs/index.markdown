@@ -38,5 +38,5 @@ Deze website is bedoeld om een plek te zijn voor de community om informatie met 
 ## Andere informatie voorzieningen
 
 - [Onetime forum](https://forum.onetime.nl/topic/13959-casino-claim): is erg actief en geregeld door de community
-- [Casino zorgplicht](https://casinozorgplicht.nl/): prima informatie maar wordt wel gesponsord door één van de aanbieders (Goldenstein). Niet geheel objectief dus.
+- [Casino zorgplicht](https://casinozorgplicht.nl/): prima informatie maar wordt wel gesponsord door één van de aanbieders (Goldenstein). Niet geheel objectief dus. Update 2024-08-07: de sponsoring van Goldenstein lijkt te zijn verdwenen.
 
