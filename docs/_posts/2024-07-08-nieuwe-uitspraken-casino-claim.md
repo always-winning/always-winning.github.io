@@ -20,13 +20,13 @@ Een andere eiser vorderde € 91.940 van Green Feather Online Limited, het bedri
 
 In de zaken tegen Trannel Limited eisten de gokkers respectievelijk € 77.395, € 38.577 en € 106.481 terug.
 
-### Rechtbank Negeert Uitkomst Hoge Raad
+### Rechtbank Wacht Niet op Uitkomst Hoge Raad
 
 In mei was er een opmerkelijke uitzondering toen een rechter in het voordeel van Bwin oordeelde. [De rechtbank Zeeland-West Brabant stelde toen dat artikel 1 van de Wet op de Kansspelen (Wok) niet langer van toepassing was.](/uitleg/2024/07/11/Rechtzaken.html)
 
 Kort daarop [verzochten de Rechtbanken van Noord-Holland en Amsterdam de Hoge Raad om verduidelijking.](/uitleg/2024/07/24/uitgebreide-uitleg.html) Om tegenstrijdige uitspraken te voorkomen, stelden zij vijf vragen aan de Hoge Raad. De antwoorden zouden de Nederlandse rechtbanken moeten helpen bij de interpretatie van de Nederlandse kansspelwetgeving in het licht van de Europese wetgeving.
 
-Ondanks het uitblijven van de antwoorden van de Hoge Raad, heeft [de rechtbank in Den Haag toch een uitspraak gedaan in deze zaken.](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:11013) De rechtbank heeft enkele van de gestelde vragen zelf beantwoord in haar vonnis.
+Ondanks het uitblijven van de antwoorden van de Hoge Raad, heeft [de rechtbank in Den Haag toch een uitspraak gedaan in deze zaken.](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:11013) De rechtbank heeft enkele van de gestelde vragen zelf beantwoord in haar vonnis en heeft niet gewacht op de Hoge Raad.
 
 Bekijk de volledige [tijdlijn op de tijdlijnpagina.](/tijdlijn)
 
