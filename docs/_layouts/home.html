@@ -9,4 +9,33 @@ layout: default
 
   {{ content }}
 
+  {%- if site.posts.size > 0 -%}
+<div class="recent-posts post-content">
+    <h2>Recente artikelen</h2>
+    <ul class="recent-post-list">
+        {%- assign recent_posts = site.posts | where_exp: "post", "post.url != page.url" | sort: "date" | reverse -%}
+        {%- assign recent_posts_limited = recent_posts | slice: 0, 5 -%}
+        {%- for post in recent_posts_limited -%}
+        <li class="recent-post-item">
+            <div class="recent-post-thumbnail">
+                {%- if post.coverimage -%}
+                    <img src="{{ post.coverimage }}" alt="Cover image for {{ post.title | escape }}" />
+                {%- else -%}
+                    <img src="/assets/images/article.svg" alt="Default cover image" />
+                {%- endif -%}
+            </div>
+            <div class="recent-post-info">
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+                <h3 class="recent-post-title">
+                    <a class="post-link" href="{{ post.url | relative_url }}">
+                        {{ post.title | escape }}
+                    </a>
+                </h3>
+            </div>
+        </li>
+        {%- endfor -%}
+    </ul>
+</div>
+{%- endif -%}
+
 </div>
