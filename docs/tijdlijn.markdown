@@ -4,6 +4,16 @@ title: Tijdlijn
 permalink: /tijdlijn/
 ---
 <style>
+
+  .direct-link {
+    font-size: 9px;
+    margin-top: 5px;
+  }
+  .direct-link a {
+    text-decoration: none;
+    color: #418756;
+  }
+  
   .timeline {
     position: relative;
     max-width: 1200px;
@@ -129,11 +139,14 @@ De juridische strijd tussen Nederlandse gokkers en online casino's is het result
 <div class="timeline">
   {% assign events = site.data.timeline %}
   {% for event in events %}
-    <div class="timeline-item {% cycle 'left', 'right' %}">
+    <div class="timeline-item {% cycle 'left', 'right' %}" id="{{ event.id }}">
       <div class="content">
         <h2>{{ event.date }}</h2>
         <h3>{{ event.title }}</h3>
         <p>{{ event.description | markdownify}}</p>
+        <p class="direct-link">
+          <a href="#{{ event.id }}">Directe link</a>
+        </p>
       </div>
     </div>
   {% endfor %}
