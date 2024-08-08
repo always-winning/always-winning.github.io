@@ -203,3 +203,62 @@ body {
 .category_tag.nieuws {
     background-color: #ffb6b6; 
 }
+
+.recent-posts {
+    margin-top: 2em;
+}
+
+.recent-posts h2 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+.recent-post-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recent-post-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 1em;
+}
+
+.recent-post-thumbnail {
+    flex: 0 0 80px;
+    margin-right: 1em;
+}
+
+.recent-post-thumbnail img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.recent-post-info {
+    flex: 1;
+}
+
+.recent-post-title {
+    margin: 0;
+    font-size: 1.1em;
+}
+
+.recent-post-title a {
+    text-decoration: none;
+    color: #333;
+}
+
+.recent-post-title a:hover {
+    text-decoration: underline;
+}
+
+.post-meta {
+    font-size: 0.9em;
+    color: #999;
+    margin-bottom: 0.5em;
+}
+
