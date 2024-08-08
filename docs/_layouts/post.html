@@ -40,9 +40,10 @@ layout: default
 <div class="recent-posts">
     <h2>Recente artikelen</h2>
     <ul class="recent-post-list">
-        {%- assign recent_posts = site.posts | where: "id", "!=" page.id | sort: "date" | reverse | limit: 5 -%}
+        {%- assign recent_posts = site.posts | where_exp: "post", "post.url != page.url" | sort: "date" | reverse | limit: 5 -%}
         {%- for post in recent_posts -%}
         <li>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
             <span class="post-meta">{{ post.date | date: date_format }}</span>
             <h3>
                 <a class="post-link" href="{{ post.url | relative_url }}">
