@@ -20,4 +20,4 @@ Vaak een snellere procedure (als je veel bent verloren), maar wel een hogere com
 
 * **[Goldenstein](https://www.ra-goldenstein.de/):** Een Duits advocatenkantoor die daar al enkele rechtzaken hebben gevoerd. Zij betreden nu ook de Nederlandse markt en doen vooral individuele claims. Comissie: 40%
 
-* **[Rechtopwet.nl](https://rechtopwet.nl/):** Een nieuwe partij die individuele zaken doet. Persoonlijk zou ik één van de andere partijen zoals Claimly of Loonstein kiezen, maar ik hoor graag van mensen die ervaring hebben met rechtopwet.nl. Zie [het artikel van casinozorgplicht.nl](https://casinozorgplicht.nl/rechtopwet-nl-bevat-onwaarheden-valse-hoop-voor-gokkende-nederlanders-gewekt/)
+* **[Rechtopwet.nl](https://rechtopwet.nl/):** Een nieuwe partij die individuele zaken doet. Persoonlijk zou ik één van de andere partijen zoals Claimly of Loonstein kiezen, maar ik hoor graag van mensen die ervaring hebben met rechtopwet.nl. Zie [het artikel van casinozorgplicht.nl](https://casinozorgplicht.nl/rechtopwet-nl-bevat-onwaarheden-valse-hoop-voor-gokkende-nederlanders-gewekt/). Commissie: onbekend
