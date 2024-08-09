@@ -18,4 +18,4 @@ Vaak een snellere procedure (als je veel bent verloren), maar wel een hogere com
 
 * **[Loonstein Advocaten](https://loonsteinadvocaten.nl/rechtsgebieden/geldverlies-online-casinos/):** Een Amsterdams advocatenkantoor met ruime ervaring in het procederen voor consumenten. Zij waren een van de eerste kantoren die zich specialiseerden in kansspelzaken en hebben al meerdere succesvolle zaken gevoerd. Te vinden op [CasinoClaim](https://casino-claim.nl). Comissie: variabel
 
-* **[Goldenstein](https://www.ra-goldenstein.de/):** Een Duits advocatenkantoor die daar al enkele rechtzaken hebben gevoerd. Zij betreden nu ook de Nederlandse markt en doen vooral individuele claims. Comissie: variabel
+* **[Goldenstein](https://www.ra-goldenstein.de/):** Een Duits advocatenkantoor die daar al enkele rechtzaken hebben gevoerd. Zij betreden nu ook de Nederlandse markt en doen vooral individuele claims. Comissie: 40%
