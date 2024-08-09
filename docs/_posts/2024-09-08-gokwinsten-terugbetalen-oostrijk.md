@@ -3,7 +3,7 @@ layout: post
 title:  "Hooggerechtshof Oostenrijk: Spelers Moeten Gokwinsten Terugbetalen bij Illegale Online Casino’s"
 date:   2024-08-07 10:00:00 +0200
 categories: nieuws
-coverimage: /assets/images/hooggerechtshof.jpg
+coverimage: /assets/images/austria-flag.jpg
 ---
 
 ## Hooggerechtshof Oostenrijk: Spelers Moeten Gokwinsten Terugbetalen bij Illegale Online Casino’s
